@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nilesh\\OnlineCourses\\modern-cpp-01\\day01\\demo03-auto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83B20641-B1CE-4292-96C3-2EEAFA3A2F95}|demo03-auto.vcxproj|D:\\Nilesh\\OnlineCourses\\modern-cpp-01\\day01\\demo03-auto\\demo03-auto.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83B20641-B1CE-4292-96C3-2EEAFA3A2F95}|demo03-auto.vcxproj|solutionrelative:demo03-auto.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "demo03-auto.cpp",
+              "DocumentMoniker": "D:\\Nilesh\\OnlineCourses\\modern-cpp-01\\day01\\demo03-auto\\demo03-auto.cpp",
+              "RelativeDocumentMoniker": "demo03-auto.cpp",
+              "ToolTip": "D:\\Nilesh\\OnlineCourses\\modern-cpp-01\\day01\\demo03-auto\\demo03-auto.cpp",
+              "RelativeToolTip": "demo03-auto.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-21T16:19:03.923Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

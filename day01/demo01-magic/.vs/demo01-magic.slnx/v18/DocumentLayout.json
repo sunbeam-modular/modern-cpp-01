@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nilesh\\OnlineCourses\\modern-cpp-01\\day01\\demo01-magic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{818A7089-B88F-4DB7-B1A6-3ABDE619F9A7}|demo01-magic.vcxproj|D:\\Nilesh\\OnlineCourses\\modern-cpp-01\\day01\\demo01-magic\\demo01-magic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{818A7089-B88F-4DB7-B1A6-3ABDE619F9A7}|demo01-magic.vcxproj|solutionrelative:demo01-magic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "demo01-magic.cpp",
+              "DocumentMoniker": "D:\\Nilesh\\OnlineCourses\\modern-cpp-01\\day01\\demo01-magic\\demo01-magic.cpp",
+              "RelativeDocumentMoniker": "demo01-magic.cpp",
+              "ToolTip": "D:\\Nilesh\\OnlineCourses\\modern-cpp-01\\day01\\demo01-magic\\demo01-magic.cpp",
+              "RelativeToolTip": "demo01-magic.cpp",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAzwFUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-21T15:06:46.237Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
